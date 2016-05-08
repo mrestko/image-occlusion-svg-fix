@@ -14,6 +14,7 @@ The Anki **media collections directory** is a folder where Anki stores all of th
 
 ### Method 2
 (This method requires that you use the command line. I can't explain all the steps for using the command line here, but I've found command line "getting started" resources for: [Windows](http://www.computerhope.com/issues/chusedos.htm) and [Mac OS X](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line))
+
 0. Back up your Anki media collections directory by finding the folder and making a copy of it somewhere else on your computer. (Once you have completed all the steps and verfied that all of your cards are still working, you can delete this backup folder.)
 1. Your computer must have Python installed. This is installed by default on Mac OS X but on Windows you will need to go to https://www.python.org/downloads/ and follow the instructions to download and install **Python 2.7**.
 1. This script needs `lxml` which can be installed by running  `pip install -r requirements.txt`
